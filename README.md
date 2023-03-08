@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-  <meta charset="UTF-8">
-  <title>ChatGPT em JavaScript utilizando a API da OpenAI</title>
-</head>
 <body>
   <div>
     <h1>ChatGPT em JavaScript utilizando a API da OpenAI</h1>
